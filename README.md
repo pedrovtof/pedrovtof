@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pedrovtof
 - 👀 I’m interested in Software
 - 🌱 I’m currently learning HTML, CSS, JV, PHYTON
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pedrovotf@gmail.com; https://www.instagram.com/pedrovotf/; https://www.linkedin.com/in/pedrovotf/
 
 <!---
