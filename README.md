@@ -1,5 +1,5 @@
 <h1 align="center"><strong>(≖‿‿≖)Prazer sou o Pedro Fonseca (≖‿‿≖)</strong></h1>
-<h2 align="center"> Sobre mim </h2> 
+<h2 align="center"> Sobre euzinho ʕ•́ᴥ•̀ʔっ </h2> 
 <p align="left" text-aling="justify"> Gosto de video games, computador, animes, odeio lugares cheios e amo cerveja <br>
   
  Trabalho como analista de operação atualmente, estudo <stront>ADS</strong> e cursinhos online nos dias de semana <br>
