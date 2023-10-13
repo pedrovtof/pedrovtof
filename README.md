@@ -1,15 +1,14 @@
 <h1 align="center"><strong>(≖‿‿≖)Prazer sou o Pedro Fonseca (≖‿‿≖)</strong></h1>
 
 <p align="left" text-aling="justify"> Gosto de video games, computador, animes, odeio lugares cheios e amo cerveja <br>
-  
  Trabalho como analista de sistemas JR atualmente, estudo <stront>ADS</strong> e cursinhos online nos dias de semana <br>
-  Quero me especializar em Dev Fullstack JS <br></p>
+  Quero me especializar em Dev Fullstack JS <br>
+  </p>
   
  ##
  
 <div align="center">
   <a href="https://github.com/ pedrovtof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical"/>
     </div>
   
