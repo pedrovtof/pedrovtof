@@ -1,8 +1,7 @@
 <h1 align="center"><strong>(≖‿‿≖)Prazer sou o Pedro Fonseca (≖‿‿≖)</strong></h1>
 
 <p align="left" text-aling="justify"> Gosto de video games, computador, animes, odeio lugares cheios e amo cerveja <br>
- Trabalho como analista de sistemas JR atualmente, estudo <stront>ADS</strong> e cursinhos online nos dias de semana <br>
-  Quero me especializar em Dev Fullstack JS <br>
+ Trabalho como DBA
   </p>
   
  ##
