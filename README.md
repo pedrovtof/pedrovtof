@@ -1,7 +1,8 @@
-<h1 align="center"><strong>(≖‿‿≖)Prazer sou o Pedro Fonseca (≖‿‿≖)</strong></h1>
+<h1 align="center"><strong></strong>Pedro FOnseca</h1>
 
-<p align="left" text-aling="justify"> Gosto de video games, computador, animes, odeio lugares cheios e amo cerveja <br>
- Trabalho como DBA
+<p align="left" text-aling="justify"> 
+ Database Administrator
+ Developer
   </p>
   
  ##
