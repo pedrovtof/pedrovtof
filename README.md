@@ -1,4 +1,4 @@
-<h1 align="center"><strong></strong>Pedro FOnseca</h1>
+<h1 align="center"><strong></strong>Pedro Fonseca</h1>
 
 <p align="left" text-aling="justify"> 
  Database Administrator
