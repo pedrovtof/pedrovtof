@@ -1,10 +1,10 @@
-<h1 align="center"><strong></strong>Pedro Fonseca</h1>
+
 
 <p align="left" text-aling="justify"> 
 
 <h2>Good morning, afternoon, and night!</h2>
 
-<p>My name is Victor Fonseca, and I am from São Paulo, Brasil. I love writing scripts for developer systems, but I confess that Infrastructure and Databases are also an important part of my routine.</p>
+<p>My name is Pedro Fonseca, and I am from São Paulo, Brasil. I love writing scripts for developer systems, but I confess that Infrastructure and Databases are also an important part of my routine.</p>
 
 <p>I have experience working in app support, addressing client-reported bugs for banks, and I also have a background in automation for internal systems. I have more than 1 year of experience as a DBA, although in practice, I am more of a DBRE, handling cloud infrastructure and tasks such as configuring virtual machines.</p>
 
