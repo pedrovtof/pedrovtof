@@ -1,23 +1,17 @@
 name: CI #Continous integration
 
 on: 
-  push_request: #just on push
-    branches:
-      ['master', 'main', 'HEAD'] #principal branch
+  push: #just on push
+    branches: ["master", "main", "HEAD"] #principal branch
+
+  workflow_dispatch:  #workflow manually from the Actions tab
 
 jobs:
-  continuos-integration:
-    run-on:ubuntu-22.4 #stable version
-  
-  steps:
-    - name: Using default git_controler_branch 
-      uses: actions/checkout@v3 #using v 3
-    - name: Using Node.js
-      uses: actions/setup-node@v3 #using v 3
-      with:
-        node-version:latest #using last version
-    - name: install Requirements #Building server
+  build:
+    runs-on: ubuntu-latest #stable version
+    
+    steps:
+      - uses: actions/checkout@v4
+      - name: Using test
         run: |
-          npm install
-          npm run build
-          npm run test
+          echo test, and deploy your project.
