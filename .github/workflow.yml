@@ -1,0 +1,23 @@
+name: CI #Continous integration
+
+on: 
+  push_request: #just on push
+    branches:
+      ['master', 'main', 'HEAD'] #principal branch
+
+jobs:
+  continuos-integration:
+    run-on:ubuntu-22.4 #stable version
+  
+  steps:
+    - name: Using default git_controler_branch 
+      uses: actions/checkout@v3 #using v 3
+    - name: Using Node.js
+      uses: actions/setup-node@v3 #using v 3
+      with:
+        node-version:latest #using last version
+    - name: install Requirements #Building server
+        run: |
+          npm install
+          npm run build
+          npm run test
