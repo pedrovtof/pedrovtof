@@ -33,47 +33,58 @@ I am not the biggest fan of open-source, but I use it regularly. I also have a p
 ## Some things I have work experience with:
 
 ### Cloud
-- Google Cloud
-- Oracle Cloud
+- Google Cloud Platform (GCP)
+- Oracle Cloud Infrastructure (OCI)
 
 ### Data
 - BigQuery (Google Cloud)
 
 ### Databases
+- ClickHouse
 - MongoDB
+- MSSQL => SQL Server
 - MySQL
-- MSSQL - SQL Server
 - PostgreSQL
-- Clickhouse
 
 ### Developer Tools
 - GitHub
 - Microsoft Visual Studio
-- Python
+
+### Frameworks
+- Node.js
+- SaaS
 
 ### Helpdesk
 - GLPI
 - Slack
 
 ### Infrastructure
-- Hyper-V
+- Backup and Disaster Recovery (Google Cloud)
 - Docker
+- Hyper-V
 - Terraform
 - Terragrunt
 - WSL (Windows Subsystem for Linux)
-- Backup and Disaster Recovery (Google Cloud)
 
 ### Observability
+- ELK Stack (Elasticsearch)
 - Intelie Live
 - Zabbix
-- ELK Stack (Elasticsearch)
+
+### Programming
+- JavaScript
+- Python
+
+### Technology
+- CSS
+- HTML
 
 ---
 
 ## Some systems I have worked with:
-- Ubuntu
 - Debian
 - Rocky Linux
+- Ubuntu
 - Windows
 - Windows Server
 ---
