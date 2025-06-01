@@ -74,6 +74,7 @@ I am not the biggest fan of open-source, but I use it regularly. I also have a p
 ### Programming
 - JavaScript
 - Python
+- Java
 
 ### Technology
 - CSS
