@@ -8,6 +8,8 @@ I have a passion for Windows, but I admit that Linux is better for me. I persona
 
 I am not the biggest fan of open-source, but I use it regularly. I also have a passion for IoT (Arduino).
 
+Portfolio: https://portfolio-two-blush-90.vercel.app/en
+
 ---
 
 <div>
