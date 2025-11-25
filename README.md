@@ -1,93 +1,50 @@
-## Good morning, afternoon and night!
+# Hi, I'm Pedro Fonseca 👋
 
-My name is Pedro Fonseca, and I am from São Paulo, Brasil. I love writing scripts for developer systems, but I confess that Infrastructure and Databases are also an important part of my routine.
+## 🚀 About Me
 
-I have experience working in app support, addressing client-reported bugs for banks, and I also have a background in automation for internal systems. I have more than 1 year of experience as a DBA, although in practice, I am more of a DBRE, handling cloud infrastructure and tasks such as configuring virtual machines.
+I'm a passionate developer from São Paulo, Brazil, with a love for writing scripts and a strong background in infrastructure and databases. My experience includes application support, bug fixing for banking clients, and automation for internal systems.
 
-I have a passion for Windows, but I admit that Linux is better for me. I personally prefer Debian and Ubuntu, though I do respect RockyLinux as well.
+With over a year of experience as a DBA/DBRE, I specialize in cloud infrastructure and virtual machine configuration. While I have a soft spot for Windows, I'm a Linux enthusiast who prefers Debian and Ubuntu but also respects RockyLinux. I'm also a regular user of open-source technologies and have a passion for IoT (Arduino).
 
-I am not the biggest fan of open-source, but I use it regularly. I also have a passion for IoT (Arduino).
-
-Portfolio: https://portfolio-two-blush-90.vercel.app/en
+**Portfolio:** [portfolio-two-blush-90.vercel.app/en](https://portfolio-two-blush-90.vercel.app/en)
 
 ---
 
-<div>
-    <img style="width: 42%; height: 0.1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical" />
-    <img style="width: 47%; height: 0.1rem;" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical" />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical" />
 </div>
 
 ---
 
-## Projects
+## 💻 Projects
 
-![WORK ON IT](https://media2.giphy.com/media/XzqEFZ06NSFgXaut2g/giphy.gif?cid=6c09b952lof4210j6inpt5slnkcrk1pf4wzufcr3eg6u9fgd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-
----
-
-## 📫 How to reach me:
-- **Email:** [pedrovotf@gmail.com](mailto:pedrovotf@example.com)
-- **LinkedIn:** [Pedro Fonseca](https://www.linkedin.com/in/pedrovotf/)
-- **Instagram:** [Pedro Fonseca](https://www.instagram.com/pedrovtof/)
+![WORK ON IT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY0YjFjZDY3YzA3ZDA3Y2U1Y2RiNzdiY2Q4ZTgyYjU1ZjU2ZGM2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
 
-## Some things I have work experience with:
+## 📫 Connect with me:
 
-### Cloud
-- Google Cloud Platform (GCP)
-- Oracle Cloud Infrastructure (OCI)
-
-### Data
-- BigQuery (Google Cloud)
-
-### Databases
-- ClickHouse
-- MongoDB
-- MSSQL => SQL Server
-- MySQL
-- PostgreSQL
-
-### Developer Tools
-- GitHub
-- Microsoft Visual Studio
-
-### Frameworks
-- Node.js
-- SaaS
-
-### Helpdesk
-- GLPI
-- Slack
-
-### Infrastructure
-- Backup and Disaster Recovery (Google Cloud)
-- Docker
-- Hyper-V
-- Terraform
-- Terragrunt
-- WSL (Windows Subsystem for Linux)
-
-### Observability
-- ELK Stack (Elasticsearch)
-- Intelie Live
-- Zabbix
-
-### Programming
-- JavaScript
-- Python
-- Java
-
-### Technology
-- CSS
-- HTML
+- 📧 [pedrovotf@gmail.com](mailto:pedrovotf@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrovotf/)
+- 📷 [Instagram](https://www.instagram.com/pedrovtof/)
 
 ---
 
-## Some systems I have worked with:
-- Debian
-- Rocky Linux
-- Ubuntu
-- Windows
-- Windows Server
+## 🛠️ Skills & Expertise
+
+| Category          | Technologies                                                                                             |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| **Cloud**         | Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)                                           |
+| **Data**          | BigQuery (Google Cloud)                                                                                  |
+| **Databases**     | ClickHouse, MongoDB, MSSQL (SQL Server), MySQL, PostgreSQL                                               |
+| **Developer Tools**| GitHub, Microsoft Visual Studio                                                                          |
+| **Frameworks**    | Node.js, SaaS                                                                                            |
+| **Helpdesk**      | GLPI, Slack                                                                                              |
+| **Infrastructure**| Backup and Disaster Recovery (Google Cloud), Docker, Hyper-V, Terraform, Terragrunt, WSL                  |
+| **Observability** | ELK Stack (Elasticsearch), Intelie Live, Zabbix                                                          |
+| **Programming**   | JavaScript, Python, Java                                                                                 |
+| **Technology**    | CSS, HTML                                                                                                |
+| **Systems**       | Debian, Rocky Linux, Ubuntu, Windows, Windows Server                                                     |
+
 ---
