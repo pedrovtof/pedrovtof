@@ -14,6 +14,28 @@
 
 ---
 
+### Portfolio
+
+- https://portfolio-two-blush-90.vercel.app/
+- https://www.nievo.site/
+
+---
+
+### Projects
+
+- Items
+
+---
+
+### Blog
+
+[<img height="80px" width="140px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pedrovotf)
+
+
+---
+
+
+
 ### 🛠️ Some things I have work experience with:
 
 <div align="left">
@@ -62,6 +84,13 @@
 ---
 
 ### 📫 How to reach me:
-- **Email:** [pedrovotf@gmail.com](mailto:pedrovotf@gmail.com)
-- **LinkedIn:** [Pedro Fonseca](https://www.linkedin.com/in/pedrovotf/)
-- **Instagram:** [Pedro Fonseca](https://www.instagram.com/pedrovtof/)
+
+<div align="left">
+
+[<img height="60px" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pedrovotf@gmail.com) 
+<br>
+[<img height="60px" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pedrovotf/) 
+<br>
+[<img height="60px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/pedrovtof/) 
+  
+</div>
