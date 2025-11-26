@@ -1,50 +1,67 @@
-# Hi, I'm Pedro Fonseca 👋
-
-## 🚀 About Me
-
-I'm a passionate developer from São Paulo, Brazil, with a love for writing scripts and a strong background in infrastructure and databases. My experience includes application support, bug fixing for banking clients, and automation for internal systems.
-
-With over a year of experience as a DBA/DBRE, I specialize in cloud infrastructure and virtual machine configuration. While I have a soft spot for Windows, I'm a Linux enthusiast who prefers Debian and Ubuntu but also respects RockyLinux. I'm also a regular user of open-source technologies and have a passion for IoT (Arduino).
-
-**Portfolio:** [portfolio-two-blush-90.vercel.app/en](https://portfolio-two-blush-90.vercel.app/en)
-
----
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical" />
+  <h2>Good morning, afternoon and night! 👋</h2>
+</div>
+
+<div align="justify">
+  <p>My name is <strong>Pedro Fonseca</strong>, and I am from São Paulo, Brazil. I love writing scripts for developer systems, but I confess that Infrastructure and Databases are also an important part of my routine.</p>
+  
+  <p>I have experience working in app support, addressing client-reported bugs for banks, and I also have a background in automation for internal systems. I have more than 1 year of experience as a DBA, although in practice, I am more of a DBRE (Database Reliability Engineer), handling cloud infrastructure and tasks such as configuring virtual machines.</p>
+  
+  <p>I have a passion for Windows, but I admit that Linux is better for me. I personally prefer Debian and Ubuntu, though I do respect RockyLinux as well.</p>
+  
+  <p>I am not the biggest fan of open-source, but I use it regularly. I also have a passion for IoT (Arduino).</p>
 </div>
 
 ---
 
-## 💻 Projects
+### 🛠️ Some things I have work experience with:
 
-![WORK ON IT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY0YjFjZDY3YzA3ZDA3Y2U1Y2RiNzdiY2Q4ZTgyYjU1ZjU2ZGM2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+<div align="left">
+
+**☁️ Cloud & Infrastructure**<br>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+
+**🗄️ Databases & Data**<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+
+**💻 OS & Systems**<br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
+
+**🛠️ Tools & Observability**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/pedrovtof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 ---
 
-## 📫 Connect with me:
-
-- 📧 [pedrovotf@gmail.com](mailto:pedrovotf@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrovotf/)
-- 📷 [Instagram](https://www.instagram.com/pedrovtof/)
-
----
-
-## 🛠️ Skills & Expertise
-
-| Category          | Technologies                                                                                             |
-| ----------------- | -------------------------------------------------------------------------------------------------------- |
-| **Cloud**         | Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)                                           |
-| **Data**          | BigQuery (Google Cloud)                                                                                  |
-| **Databases**     | ClickHouse, MongoDB, MSSQL (SQL Server), MySQL, PostgreSQL                                               |
-| **Developer Tools**| GitHub, Microsoft Visual Studio                                                                          |
-| **Frameworks**    | Node.js, SaaS                                                                                            |
-| **Helpdesk**      | GLPI, Slack                                                                                              |
-| **Infrastructure**| Backup and Disaster Recovery (Google Cloud), Docker, Hyper-V, Terraform, Terragrunt, WSL                  |
-| **Observability** | ELK Stack (Elasticsearch), Intelie Live, Zabbix                                                          |
-| **Programming**   | JavaScript, Python, Java                                                                                 |
-| **Technology**    | CSS, HTML                                                                                                |
-| **Systems**       | Debian, Rocky Linux, Ubuntu, Windows, Windows Server                                                     |
-
----
+### 📫 How to reach me:
+- **Email:** [pedrovotf@gmail.com](mailto:pedrovotf@gmail.com)
+- **LinkedIn:** [Pedro Fonseca](https://www.linkedin.com/in/pedrovotf/)
+- **Instagram:** [Pedro Fonseca](https://www.instagram.com/pedrovtof/)
