@@ -3,13 +3,18 @@
 </div>
 
 <div align="justify">
-  <p>My name is <strong>Pedro Fonseca</strong>, and I am from São Paulo, Brazil. I love writing scripts for developer systems, but I confess that Infrastructure and Databases are also an important part of my routine.</p>
+  <h3> Hy there, I am Pedro Fonseca </h3> 
+  <p>I am a Software Developer with a specialized background in Database Reliability and Cloud Infrastructure..</p>
   
-  <p>I have experience working in app support, addressing client-reported bugs for banks, and I also have a background in automation for internal systems. I have more than 1 year of experience as a DBA, although in practice, I am more of a DBRE (Database Reliability Engineer), handling cloud infrastructure and tasks such as configuring virtual machines.</p>
+  <p>I bridge the gap between development and operations. While my career started in Support and DBA roles—managing complex environments like SQL Server, my focus has always been on automation and development. I am now fully dedicated to Engineering roles where I can build software that solves big world problems.</p>
+
+  <p>My primary focus is on Backend Development using Java and Python. I also work with JavaScript (React/Next.js) for frontend applications.</p>
+
+  <p>Unlike many developers, I feel at home with the database layer. I have extensive experience managing and querying  PostgreSQL, MySQL, ClickHouse, BiqQuery and SQL Server . I am also proficient in Docker, Kubernetes, and Terraform, ensuring that the applications I build are easy to deploy and scale.</p>
   
-  <p>I have a passion for Windows, but I admit that Linux is better for me. I personally prefer Debian and Ubuntu, though I do respect RockyLinux as well.</p>
+  <p>I am a Linux enthusiast (specifically Debian) and I prioritize Open Source solutions in my stack. I believe in the <strong>power of open-source</strong> </p>
   
-  <p>I am not the biggest fan of open-source, but I use it regularly. I also have a passion for IoT (Arduino).</p>
+  <p>I enjoy experimenting with hardware and automation using Arduino.</p>
 </div>
 
 ---
@@ -23,22 +28,27 @@
 
 ### Projects
 
-- Items
+- [Airflow - Transfer data from PSQL-MYSQL to Clickhouse](https://github.com/pedrovtof/Python-Airflow-transfer-data)
+- [Finance helper](https://github.com/pedrovtof/Controle-de-orcamento)
 
 ---
 
-### Blog
+### More about me
 
 [<img height="80px" width="140px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pedrovotf)
-
+[<img height="80px" width="140px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/u/sZGUKdY0ve/)
 
 ---
-
 
 
 ### 🛠️ Some things I have work experience with:
 
 <div align="left">
+
+**⚙ Programming**<br>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 **☁️ Cloud & Infrastructure**<br>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -48,7 +58,6 @@
 <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
 **🗄️ Databases & Data**<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -62,11 +71,15 @@
 <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" />
 
 **🛠️ Tools & Observability**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+
+**🤖 AI**<br>
+<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
 
 </div>
 
