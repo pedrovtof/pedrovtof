@@ -89,14 +89,12 @@
 
 <div align="center">
   <a href="https://github.com/pedrovtof">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrovtof&show_icons=true&theme=radical&include_all_commits=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovtof&layout=compact&langs_count=7&theme=radical"/>
+    <img src="https://github-profile-trophies.vercel.app/?username=pedrovtof&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
 
 <div align="center">
-  <p align="center"> <img  width="900em" alt="pedrovtof's Github comitte snake"  src="https://github.com/pedrovtof/pedrovtof/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrovtof/pedrovtof/output/github-contribution-grid-snake-dark.svg">
