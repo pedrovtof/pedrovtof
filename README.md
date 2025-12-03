@@ -100,13 +100,13 @@ pedrovotf@gmail.com
 ---
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <div align="center">
-   <a href="https://github.com/pedrovtof">
+   <a href="https://github-readme-streak-stats.herokuapp.com/?user=pedrovtof&theme=radical&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrovtof&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/pedrovtof">
+  <a href="https://github-profile-trophies.vercel.app/?username=pedrovtof&theme=radical&no-frame=true&margin-w=4">
     <img src="https://github-profile-trophies.vercel.app/?username=pedrovtof&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
