@@ -98,6 +98,11 @@
 <div align="center">
   <p align="center"> <img  width="900em" alt="pedrovtof's Github comitte snake"  src="https://github.com/pedrovtof/pedrovtof/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrovtof/pedrovtof/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrovtof/pedrovtof/output/github-contribution-grid-snake.svg">
+</picture>
+
   <p align="center">
   	<a href="./profile-3d-contrib/profile-night-green.svg">
   		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
