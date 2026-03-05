@@ -81,7 +81,7 @@
 
 **🤖 AI**<br>
 <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Lovable-AI-ff6b6b?style=for-the-badge&logoColor=white"/>
 </div>
 
 ---
